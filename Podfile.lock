@@ -1,0 +1,15 @@
+PODS:
+  - KeychainAccess (2.3.5)
+  - Mapbox-iOS-SDK (3.2.2)
+
+DEPENDENCIES:
+  - KeychainAccess
+  - Mapbox-iOS-SDK
+
+SPEC CHECKSUMS:
+  KeychainAccess: e283c1981a6c5655e1984cd411c6faf16fa165ae
+  Mapbox-iOS-SDK: 117ba1b0ed31107d3fe5826878a0f1531775aedc
+
+PODFILE CHECKSUM: dc2c8d7c4cc14ab91f50f897b67e862716de67ff
+
+COCOAPODS: 1.0.1
